@@ -1,12 +1,5 @@
----
-title: "README"
-author: "Kameela P. Noah"
-date: '2024-10-23'
-output: html_document
-editor_options: 
-  markdown: 
-    wrap: 72
----
+Author: Kameela Noah
+Date: October 23, 2024
 
 # Outwit. Outplay. Outdata.
 
@@ -75,10 +68,11 @@ r/survivor community. THE DASHBAORD CONTAINS SPOILERS!
 
 My analysis revealed:
 
+- There was no season in which Reddit users predicted the actual winner correctly.
 - Castaways predicted to win had a higher median number of votes than those who didn’t win.
 - There was a statistically significant difference in the number of votes between winners and losers.
 
-These results suggest r/survivor Redditors have the potential to correctly identify potential winners!
+Although Redditors were unable to predict a season's true Solve Survivor, the difference in votes recieved by winners and losers was statistically significant. These results suggest r/survivor Redditors have the *potential* to correctly identify potential winners!
 
 ### Limitations
 
