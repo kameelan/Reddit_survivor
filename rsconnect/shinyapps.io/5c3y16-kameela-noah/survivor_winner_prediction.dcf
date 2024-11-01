@@ -1,0 +1,12 @@
+name: survivor_winner_prediction
+title: reddit_survivor
+username: 5c3y16-kameela-noah
+account: 5c3y16-kameela-noah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13083081
+bundleId: 9262630
+url: https://5c3y16-kameela-noah.shinyapps.io/survivor_winner_prediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
